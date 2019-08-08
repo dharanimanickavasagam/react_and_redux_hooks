@@ -1,3 +1,6 @@
+This project uses the react-redux hooks from the aplha roll out 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
